@@ -5,7 +5,7 @@ while n<= 100:
 
 a=int(input("enter a number"))
 if (a%2==0):
-    print("it is even")
+    print("it is even")   #printing odd and even number
 else:
     print("it is odd")
 

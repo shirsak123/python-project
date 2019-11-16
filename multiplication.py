@@ -6,7 +6,7 @@ if a==1:
 elif a==2:
     print("it is monday")
 elif a==3:
-    print("it is tuesday")
+    print("it is tuesday")    #printing the days and the holiday
 elif a==4:
     print("it is wednesday")
 elif a==5:
